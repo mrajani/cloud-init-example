@@ -14,6 +14,7 @@ MIME-Version: 1.0
 Content-Type: text/cloud-boothook; charset="us-ascii"
 
 #cloud-boothook
+#!/bin/bash
 echo "Part 4" >> /var/log/order.log
 
 --===============2678395050260980330==
